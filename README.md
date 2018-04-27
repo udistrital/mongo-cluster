@@ -4,4 +4,10 @@ Infrastructure as code for a MongoDB cluster.
 
 This is a Terraform project.
 
-![](./photo5122999088038651876.jpg)
+Install and run pre-commit check with:
+
+```
+make
+```
+
+![](./images/design.jpg)
