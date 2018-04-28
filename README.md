@@ -4,7 +4,7 @@ Infrastructure as code for a MongoDB cluster.
 
 This is a Terraform project.
 
-Install and run pre-commit check with:
+Install and/or update and run pre-commit check with:
 
 ```
 make
