@@ -5,5 +5,10 @@ module "az1" {
 
 module "az2" {
   source = "../az"
+  suffix = "b"
+}
+
+module "az3" {
+  source = "../az"
   suffix = "c"
 }
